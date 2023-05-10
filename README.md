@@ -11,11 +11,12 @@ NGS-Scripting; First Steps
 - Configure sra-toolkit (user repository: home/cq/NGS/cq-examples/exam/SRA_data)
 
 ### To run the script
-The user can change accession number and output directory (default: "SRA_data").
+You can change accession number and output directory (default: "SRA_data").
 
 You run the script via (example):
-$ nextflow run NGS_workflow.nf --accession SRR11192680 -profile singularity
-($ ./nextflow run NGS_workflow.nf --accession SRR11192680 -profile singularity)
+`$ nextflow run NGS_workflow.nf --accession SRR11192680 -profile singularity` (if nexflow is in your PATH)
+
+`$ ./nextflow run NGS_workflow.nf --accession SRR11192680 -profile singularity` (if nextflow in your directory)
 
 ### What does the script do:
 It uses 4 predefinded processes which are imported by include { xxx } from "yyy":
