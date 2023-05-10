@@ -14,7 +14,7 @@ NGS-Scripting; First Steps
 The user can change accession number and output directory (default: "SRA_data").
 
 You run the script via (example):
-nextflow run ....nf --accession SRR11192680 -profile singularity
+$ nextflow run NGS_workflow.nf --accession SRR11192680 -profile singularity
 ### What does the script do:
 It uses 4 predefinded processes which are imported by include { xxx } from "yyy":
 
