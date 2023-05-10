@@ -1,8 +1,7 @@
 # CQ-Exam
-
-### Agnes Oetting
-### 10.05.2023
-### NGS-Scripting; First Steps
+Agnes Oetting
+10.05.2023
+NGS-Scripting; First Steps
 
 ## Description:
 ### Before you start: 
