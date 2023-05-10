@@ -4,8 +4,7 @@
 ## 10.05.2023
 ## NGS-Scripting; First Steps
 
-
-# What does the script do:
+## What does the script do:
 The user can change accession number and output directory (default: "SRA_data").
 
 You run the script via (example):
