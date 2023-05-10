@@ -5,7 +5,7 @@ NGS-Scripting; First Steps
 
 ## Description:
 ### Before you start: 
-- Create the folder: "singularity-container" in your working directory
+- Create the folder: "singularity_containers" in your working directory
 - Create the folder "SRA_data"
 - You need to have the sra-toolkit installed (https://github.com/ncbi/sra-tools)
 - Configure sra-toolkit (user repository: home/cq/NGS/cq-examples/exam/SRA_data)
